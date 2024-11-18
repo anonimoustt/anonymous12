@@ -1,5 +1,5 @@
 # Introduction
-We have applied unsupervised transfer learning approach to detect unseen anomalous traffic affected by the unseen attacks leveraging well-known unsupervised anomaly detection algorithms. The description of our additional analysis can be be accessed from the following pdf link:
+We have applied unsupervised transfer learning approach to detect unseen anomalous traffic affected by the unseen attacks leveraging well-known unsupervised anomaly detection algorithms. The description of our additional analysis can be accessed from the following pdf link:
 https://drive.google.com/file/d/10wWIIakzU4s4quAJt7WMCNZYO-mNkm00/view?usp=sharing
 
 
