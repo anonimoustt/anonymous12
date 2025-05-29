@@ -8,7 +8,7 @@ We have used python to implement our approach. We have used google colab ( https
 
 
 # Data
-
+# Iot Data
 We have leveraged the following three benchmarks: 
 
 First data is Available at: https://drive.google.com/drive/folders/1gfM5aKULWjnsjwHxOS_9MkZuEnIGoWip?usp=sharing
@@ -16,6 +16,10 @@ First data is Available at: https://drive.google.com/drive/folders/1gfM5aKULWjns
 Second Data is Available at: https://drive.google.com/drive/folders/1IWF9gHyqhmYP1HfhYwi9nY6FnfNoKbOO?usp=sharing
 
 Third Data is Available at: https://drive.google.com/drive/folders/1FYiK6JsD32glsYX-ZUwjNSqK0c7jFp5E
+
+# Generic Data
+https://drive.google.com/drive/folders/1iznMrQ2xHx16i3QByTjjxdHGmvgoaya0?usp=sharing
+
 
 # Code
 
