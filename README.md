@@ -28,3 +28,5 @@ First Data Application is available at: https://colab.research.google.com/drive/
 Second Data Application is available at: https://colab.research.google.com/drive/1hXd5jHoUICDTRY7ii3GJVml_895SitH_?usp=sharing
 
 Third Data Application is available at : https://colab.research.google.com/drive/1gmC-bAoq6snAwM_pYSUnR-jPr4vCEULS?usp=sharing
+
+Generic Data Implementation Code available here: https://drive.google.com/file/d/1YMT06WRsDCJ7MUNZvNoyLY3Be82tUdUh/view?usp=sharing
